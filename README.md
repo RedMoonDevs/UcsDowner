@@ -18,3 +18,6 @@ You may check the help that's going to show if you run the program without any a
 
 ## Source code
 Everything is under the RedMoon license. It is all documented and everyone can access it.
+
+## Thanks to...
+FICTURE7 for his video on YouTube and his C# equivalent available [here](https://github.com/FICTURE7/ucs-exploit).
